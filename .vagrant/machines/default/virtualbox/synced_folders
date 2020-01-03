@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/oscar":{"type":"virtualbox","guestpath":"/home/vagrant/oscar","hostpath":"/Users/campososcar/Documents/docker/docker_demo/proyecto","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/campososcar/Documents/docker/docker_demo","disabled":false,"__vagrantfile":true}}}
