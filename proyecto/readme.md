@@ -56,3 +56,9 @@ config.vm.provision - what we want setup
 
 
 https://www.youtube.com/watch?v=kDGy4CVW4N0
+
+https://stackoverflow.com/questions/40801772/what-is-the-difference-between-docker-compose-ports-vs-expose
+https://pspdfkit.com/blog/2018/how-to-use-docker-compose-to-run-multiple-instances-of-a-service-in-development/
+
+
+https://www.thepolyglotdeveloper.com/2017/03/nginx-reverse-proxy-containerized-docker-applications/

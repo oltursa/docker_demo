@@ -21,7 +21,8 @@ public class UsuarioController {
 
 	@PostMapping("/insertar")
 	public String insertarUsuario(@RequestBody Usuario usuario) {
-		usuarioRepository.save(usuario);
+		Usuario obj=usuarioRepository.save(usuario);
+		log.info(Json.of(obj));
 		return "";
 	}
 }
